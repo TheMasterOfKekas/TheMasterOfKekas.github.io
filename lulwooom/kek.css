@@ -1,0 +1,47 @@
+.book {
+  border-left: rgb(251,220,180) solid 1em;
+  height: 35em;
+  width: 25em;
+  background-color: red;
+  text-align: center;
+  color: rgb(251,220,180);
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+}
+.authors {
+  margin: 3em;
+  display: inline-block;  
+}
+.title {
+  color: white;
+  margin-top: 3em;
+}
+.name {
+  font-size: 3em;
+  display: inline;
+}
+.subname {
+  font-size: 1em;
+  display: inline;
+}
+.logo {
+  width: 5em;
+  margin: 5em;
+}
+.series {
+  border-color: rgb(251,220,180);
+  border-style: solid;
+  border-left: 0;
+  border-right: 0;
+  margin-bottom: 2em;
+  padding: .5em;
+  text-align: left;
+}
+.series span {
+  margin-left: 2em;
+}
+.bhv {
+  width: 2em;
+  float: right;
+  margin-right: 2em;
+}
