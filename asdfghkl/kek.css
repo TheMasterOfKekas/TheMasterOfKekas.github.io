@@ -1,0 +1,51 @@
+body {
+  background-color: #eee;
+  font-family: "PT Sans", sans-serif;
+}
+.book {
+  background-color: white;
+  border-left: 16px solid rgb(250, 200, 150);
+  width: 400px;
+  height: 600px;
+  padding: 20px;
+}
+.top-block {
+  height: 150px;
+}
+.wide {
+  width: 100%;
+}
+.authors {
+  margin: 5px;
+  color: red;
+  font-size: 20px;
+  display: flex;
+}
+.author {
+   flex: 1;
+}
+.history {
+  font-size: 90px;
+  width: 400px;
+  color: blue;
+}
+.down-block {
+  background-color: red;
+  height: 450px;
+}
+.ussr {
+  color: white;
+  font-size: 180px;
+  line-height: 180px;
+}
+.ten {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  color: red;
+  border-radius: 50px;
+  margin-top: 150px;
+  text-align: center;
+  margin-left: 270px;
+  font-size: 70px;
+}
